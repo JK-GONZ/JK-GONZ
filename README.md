@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on artifial intelligence<br>
+🔭 I’m currently working as IA researcher<br>
 
 
 # 💻 Tech Stack:
