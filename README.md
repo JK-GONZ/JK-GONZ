@@ -8,16 +8,20 @@
   🔭 I’m currently working as IA researcher
 </p>
 
+
 <br>
+
   
 <div aling="center">
   <h1 align="center">
     💻 Tech Stack:
   </h1>
 </div>
+
 <p>
   In process...
 </p>
+
 
 
 
