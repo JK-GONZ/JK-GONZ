@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-<table width="100%"><tr><td valign="top" width="33%">
+<table align='center' width="100%"><tr><td valign="top" width="33%">
 
 <h2 align="center">Frontend</h2>
 <div align="center">
