@@ -22,31 +22,31 @@
 
 <h2 align="center">Frontend</h2>
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/html.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/css.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/javascript.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/typescript.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/html.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/css.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/javascript.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/typescript.svg" alt="python" width="48" height="48" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h2 align="center">Backend</h2>
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/javascript.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/typescript.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/sql.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/python.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/docker.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/javascript.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/typescript.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/sql.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/python.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/docker.svg" alt="python" width="48" height="48" /></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h2 align="center">Tools</h2>
 <div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/git.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/github.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/visual_studio_code.svg" alt="python" width="48" height="48" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/warp-logo.png" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/git.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/github.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/visual_studio_code.svg" alt="python" width="48" height="48" /></a>
+  <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/warp-logo.png" alt="python" width="48" height="48" /></a>
 </div>
 
 </td></tr></table>
@@ -54,9 +54,9 @@
 
 <h2 align="center">Miscellaneous</h2>
 <div align="center">  
- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/ubuntu.svg" alt="python" width="48" height="48" /></a>
- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/notion.svg" alt="python" width="48" height="48" /></a>
- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/linkedin.svg" alt="python" width="48" height="48" /></a>
+ <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/ubuntu.svg" alt="python" width="48" height="48" /></a>
+ <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/notion.svg" alt="python" width="48" height="48" /></a>
+ <a target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/JK-GONZ/JK-GONZ/main/source/linkedin.svg" alt="python" width="48" height="48" /></a>
  
 </div>
 
