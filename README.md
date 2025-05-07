@@ -84,3 +84,7 @@
 </p>
 
 <br>
+
+<div align='center'>
+  <img src='https://komarev.com/ghpvc/?username=jk-gonz&label=Profile%20views&color=20232a&style=for-the-badge&bg-color=20232a' alt='Views' />
+</div>
