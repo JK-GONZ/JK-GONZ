@@ -46,7 +46,7 @@
 
 
 <h2 align="center">📫 Contact & Links</h2>
-<div style='display: flex; gap: 12px; align-items: center; justify-content: center; font-size: 16px; flex-wrap:wrap;'>
+<div align="center" style='display: flex; gap: 12px; align-items: center; justify-content: center; font-size: 16px; flex-wrap:wrap;'>
   <a href="https://jk-gonz.com" target="_blank">Website (Coming soon — new version)</a> •
   <a href="https://orcid.org/0009-0004-4053-3503" target="_blank" style="display:inline-flex;align-items:center;gap:6px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="12" fill="#A6CE39"/><text x="12" y="15" font-family="Arial, Helvetica, sans-serif" font-size="7" fill="#ffffff" text-anchor="middle">ORCID</text></svg> ORCID</a> •
   <a href="https://www.linkedin.com/in/jorge-enrique-gonz%C3%A1lez-gonzalo" target="_blank">LinkedIn</a> •
