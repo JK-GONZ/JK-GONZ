@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👤 JK-GONZ — AI Researcher</h1>
   <p>🔭 AI researcher focused on applied machine learning. I design and deploy models and production-ready data pipelines.</p>
-  <p>💬 **Currently employed — available for freelance, consulting, and part-time collaborations only.**</p>
+  <p>💬 <b>Currently employed — available for freelance, consulting, and part-time collaborations only.</b></p>
   <p>
     <a href="https://jk-gonz.com" target="_blank">Website</a> •
     <a href="https://github.com/JK-GONZ" target="_blank">GitHub</a> •
